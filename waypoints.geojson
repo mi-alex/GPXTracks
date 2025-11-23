@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "waypoints",
-"features": [
-{ "type": "Feature", "properties": { "ele": 1136.4040771925897, "name": "Panoramic View", "cmt": "Bishkek City view", "desc": "Bishkek City view", "sym": "Scenic Area" }, "geometry": { "type": "Point", "coordinates": [ 74.666039, 42.782993 ] } },
-{ "type": "Feature", "properties": { "ele": 1167.4553719372725, "name": "Parking & Entrance", "cmt": "Entrance to the ladder", "desc": "Entrance to the ladder", "sym": "Parking Area" }, "geometry": { "type": "Point", "coordinates": [ 74.665298, 42.780852 ] } }
-]
-}
